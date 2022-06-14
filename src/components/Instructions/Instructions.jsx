@@ -4,7 +4,7 @@ import "./Instructions.css"
 export function Instructions(props) {
   return (
     <aside className="instructions">
-      <p>{props.Instructions}</p>
+      <p>{props.instructions}</p>
     </aside>
   )
 }
